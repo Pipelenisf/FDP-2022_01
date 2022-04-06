@@ -1,0 +1,12 @@
+.content { border: solid red 1px;
+
+
+}
+
+.boton{
+    padding: 1em;
+    margin: 1em;
+    display: flex;
+    
+
+}
